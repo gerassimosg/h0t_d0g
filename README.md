@@ -4,4 +4,4 @@ h0t_d0g is a state-of-the-art device that solves a pressing issue in our society
 
 The design also features a custom Raspberry Pi hat that includes a button for triggering the camera module, and an OLED screen, LEDs, buzzers and vibrational motors for indication.
 
-This is an example of [simultaneous invention](https://en.wikipedia.org/wiki/Multiple_discovery)
+Yes, we are aware this device is similar to a bit from [Silicon Valley](https://www.youtube.com/watch?v=ACmydtFDTGs&ab_channel=HBO). Consider this another beautiful example of [simultaneous invention](https://en.wikipedia.org/wiki/Multiple_discovery). A demo of our device can be seen here.

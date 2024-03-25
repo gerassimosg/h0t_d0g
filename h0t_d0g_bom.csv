@@ -1,0 +1,14 @@
+Line Item,Description,Comments,Link
+1,Raspberry Pi 3B+,NOT tested with other Pi models,
+2,32 GB Micro SD Card,UNSURE if a smalled SD card will work when burning image,
+3,h0t_d0g PI Shield,,
+4,OLED Screen,OLED screen was NOT installed by fab house,https://www.amazon.com/dp/B072Q2X2LL?psc=1&ref=ppx_yo2ov_dt_b_product_details
+5,Raspberry Pi HQ Camera Module,,https://www.amazon.com/dp/B08LHJR3K4?psc=1&ref=ppx_yo2ov_dt_b_product_details
+6,Flex Tripod,,https://www.amazon.com/GripTight-ONE-GorillaPod-Stand-Smartphones/dp/B01NGTBA3E?th=1
+7,Brass M2.5 Hardware,For Pi mounting,https://www.amazon.com/dp/B07KM27KC6?psc=1&ref=ppx_yo2ov_dt_b_product_details
+8,Brass M2 Hardware,For OLED screen mounting,https://www.amazon.com/Litorange-Standoff-Threaded-Motherboard-Assortment/dp/B07PDQ7DVS/ref=sr_1_1_sspa?crid=LLTTB5TRLN2W&dib=eyJ2IjoiMSJ9.LrBySJNVDxGBY_m4_X1vzF51xex5G4ztA6-jQGlMLoDNFBj0x8s0H-N6wky1Kl6QL0oigi1cJxeqhBzwJhP8KkNoLm8N_v6ug-fLpAE3hBB4iqCG_912ea_3VEjGKynVgRuGLaJ7w0uGba9ZPXBAMwSEtWhXYX354T21erAJlbw-8UCxLNWf5_nLVg9sdpPJpSR50iTmF-p7u5NjpVElqhIrrEPtf0_f_1FZ-SnWvnA.7FIhrvjoTeMAWlZlS0xsLvBIakstc0OYEACXVbOOcD8&dib_tag=se&keywords=brass+m2+standoff&qid=1711329425&sprefix=brass+m2+standof%2Caps%2C125&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+9,6mm 3MP Wide Angle Lens,,https://www.adafruit.com/product/4563
+10,Black Nylon M2.5 Hardware,For camera mounting,https://www.adafruit.com/product/3299
+11,Mounting Plate for HQ Camera,For camera mounting,https://www.adafruit.com/product/5026
+12,Type A to Micro USB Cable,,
+13,USB Power Bank,,
